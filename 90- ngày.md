@@ -9,4 +9,8 @@
 ## Ngay 2 - 14/10/2026: Hoc HTML + CSS
 - Da biet them mau cho web bang CSS
 - Da tao nut bam co tuong tac có
-  
+  ## Ngay 2 - hom nay
+- Da lam web co mau den + chu xanh bang CSS
+- Da lam nut bam tuong tac bang JavaScript
+- Cam thay: Web bat dau dep roi!
+- 
