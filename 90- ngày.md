@@ -6,4 +6,7 @@
 - Muc tieu: Hoc code de tao web kiem tien
 
 ## Ngay 2: 
-(ghi tiep vao ngay mai)
+## Ngay 2 - 14/10/2026: Hoc HTML + CSS
+- Da biet them mau cho web bang CSS
+- Da tao nut bam co tuong tac có
+  
